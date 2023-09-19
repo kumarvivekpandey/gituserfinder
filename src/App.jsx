@@ -33,7 +33,7 @@ const FetchUserData = () => {
 
   return (
     <>
-      <h1>Hello</h1>
+      <h1>Gituserfinder</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
